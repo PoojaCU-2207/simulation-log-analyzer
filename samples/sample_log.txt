@@ -4,3 +4,7 @@ INFO: signal rst asserted at 15ns
 WARNING: unexpected transition on signal data at 22ns
 ERROR: signal overflow detected at 30ns
 INFO: simulation ended
+mkdir samples
+git add samples/sample_log.txt
+git commit -m "Added samples folder with sample log file"
+git push
