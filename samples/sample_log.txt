@@ -1,0 +1,6 @@
+# Simulation started
+INFO: signal clk toggled at 10ns
+INFO: signal rst asserted at 15ns
+WARNING: unexpected transition on signal data at 22ns
+ERROR: signal overflow detected at 30ns
+INFO: simulation ended
